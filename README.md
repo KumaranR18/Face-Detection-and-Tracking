@@ -53,7 +53,7 @@ Welcome to this robust and efficient OpenCV-based project for real-time **face d
   ```
 ## Download the Haar Cascade XML file (included or from OpenCV GitHub):
 
-[haarcascade_frontalface_default.xml](https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml)
+[haarcascade_frontalface_default.xml](https://github.com/KumaranR18/Face-Detection-and-Tracking/blob/main/Face%20Detection%20and%20Tracking/haarcascade_frontalface_default.xml)
 
 ## Run the scripts:
 
